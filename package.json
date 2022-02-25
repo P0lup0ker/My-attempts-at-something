@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/P0lup0ker/My-attempts-at-something/issues"
   },
-  "homepage": "https://github.com/P0lup0ker/My-attempts-at-something#readme"
+  "homepage": "https://github.com/P0lup0ker/My-attempts-at-something#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
 }
